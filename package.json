@@ -1,0 +1,20 @@
+{
+  "name": "onlineforever",
+  "version": "0.0.1",
+  "description": "discord keepalive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Discord",
+    "selfbot"
+  ],
+  "author": "0xdefnoterr",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "eris": "^0.16.1",
+    "express": "^4.18.1"
+  }
+}
